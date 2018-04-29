@@ -142,7 +142,7 @@ describe "#display_board in 'lib/display_board.rb" do
       board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
       # Can you copy the syntax of the tests above to write a test for a board
       # entirely filled with Xs?"
-
+      
       # Define the board with values that should create the desired output
       # *** Edit the line below ***
       board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"] # This is not correct
